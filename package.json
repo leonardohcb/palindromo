@@ -1,0 +1,14 @@
+{
+  "name": "palindromo",
+  "version": "1.0.0",
+  "description": "API para identificar strings palíndromas e retornar a quantidade de cada um dos caracteres contidos na mesma",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
